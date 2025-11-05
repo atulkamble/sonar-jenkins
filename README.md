@@ -1,4 +1,4 @@
-Perfect 👍 — here’s an **expanded and production-ready version** of your **SonarQube + Jenkins Docker Compose setup**, now including:
+An **production-ready version** of your **SonarQube + Jenkins Docker Compose setup**, now including:
 
 ✅ **PostgreSQL database for SonarQube**
 ✅ **Custom SonarQube configuration for durability & performance**
@@ -241,4 +241,3 @@ docker-compose down -v
 
 ---
 
-Would you like me to expand this with a **GitHub Actions CI/CD workflow** that triggers the same SonarQube analysis automatically from your GitHub repo (instead of Jenkins)?
