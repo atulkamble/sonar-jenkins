@@ -67,7 +67,7 @@ services:
       - sonarnet
 
   jenkins:
-    image: jenkins/jenkins:lts
+    image: jenkins/jenkins:jdk21
     container_name: jenkins
     restart: unless-stopped
     user: root
